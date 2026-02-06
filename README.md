@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥸 I am Machine Learning Engineer with a passion for the new AI revolution that is coming.<br>🔭 I am currently working on a worldwide AI application for the assessment of patients with problems in their joints. <br>🌱 I am currently learning web design and UX/UI.<br>💬 Ask me about the end-to-end deployment of AI solutions.<br>⚡ Fun fact: My dog's name is Freyja and yesterday someone called her Frodo.<br>✉️ Shoot me an Email or add me on Linkedin.
+🥸 I am doing my PhD on online forecasting for the management of solar power plants.<br>🔭 I am currently located in UAE.<br>🌱 I am always learning about the latest trends in AI, even though sometimes they seem like hieroglyphics. <br>💬 Ask me about the end-to-end deployment of AI solutions, previously I worked for 4 years delivering AI-healthcare to patients at home.<br>⚡ Fun fact: My dog's name is Freyja and yesterday someone called her Frodo.<br>✉️ Send me an Email or add me on Linkedin.
 
 
 ## 🌐 Socials:
